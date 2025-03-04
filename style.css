@@ -58,7 +58,7 @@ position: absolute;
         margin-left: -200vw;
    position: fixed;
         width:500vw;
-        height: inherit;
+        height: 120vh;
         }
         .vv-back{  
 
@@ -67,21 +67,22 @@ position: absolute;
             height:inherit;
             }  
             .film{
-                font-size: 40%;
-                background-color: rgba(3, 14, 24, 0.315);
+                font-size: 30%;
+                background-color: rgba(15, 48, 78, 0.473);
         
-                    height: 30%;
+                    height: 45%;
                     width: 95%;
                     border-radius: 5%;
                     margin-left: 1%;
-                    margin-top: 10vh;
+                    margin-top: 5vh;
+                    
                 }
                 .ved{
                 position: absolute;
                     background-color: aqua;
-                    width: 80%;
-                    height: 77%;
-                    margin-left: 10%;
+                    width: 100%;
+                    height: 80%;
+                    margin-left: 1%;
                     border-radius: 10px;
                     margin-top: 2vh;
                 
@@ -90,11 +91,11 @@ position: absolute;
                  
                     font-size: 80%;
                     background-color: aliceblue;
-                    height: 30vh;
+                    height: 40vh;
                     width: 70%;
                     border-radius: 5%;
                     margin-left: 0%;
-                    margin-top: 2vh;
+                    margin-top: 10vh;
                 }
      
 }
