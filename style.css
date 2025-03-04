@@ -59,6 +59,7 @@ position: absolute;
    position: fixed;
         width:500vw;
         height: 120vh;
+        margin-top: -10vh;
         }
         .vv-back{  
 
@@ -80,9 +81,9 @@ position: absolute;
                 .ved{
                 position: absolute;
                     background-color: aqua;
-                    width: 100%;
+                    width: 99%;
                     height: 80%;
-                    margin-left: 1%;
+             margin-left: 0%;
                     border-radius: 10px;
                     margin-top: 2vh;
                 
