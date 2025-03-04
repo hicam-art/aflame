@@ -1,5 +1,5 @@
 .container{
- background-color: aquamarine;
+
 width: 98%;
 
 }
@@ -17,7 +17,7 @@ height:inherit;
 
 .ved{
 position: absolute;
-    background-color: aqua;
+  
     width: 80%;
     height: 80%;
     margin-left: 10%;
@@ -49,7 +49,7 @@ position: absolute;
 @media(max-width:600px){
 
     .container{
-        background-color: aquamarine;
+      
        width: 98%;
        height: 95vh;
        
@@ -80,7 +80,7 @@ position: absolute;
                 }
                 .ved{
                 position: absolute;
-                    background-color: aqua;
+                 
                     width: 99%;
                     height: 80%;
              margin-left: 0%;
@@ -91,7 +91,7 @@ position: absolute;
                 .kk{
                  
                     font-size: 80%;
-                    background-color: aliceblue;
+                  
                     height: 40vh;
                     width: 70%;
                     border-radius: 5%;
